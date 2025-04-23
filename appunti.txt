@@ -1,0 +1,3 @@
+Informazioni su un Dataframe df
+
+df.head(), restituisce le prime righe (di default 5 ma personalizzabile)
